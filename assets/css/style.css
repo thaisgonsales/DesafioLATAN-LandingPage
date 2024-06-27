@@ -1,0 +1,79 @@
+body {
+    background-color:#FBFCFC;
+    margin: 0;
+}
+.header{
+    background-color: #FFCDD2;
+    margin-left: 10em;
+    margin-right: 20em;
+
+}
+
+.container, main{
+    position: relative;
+    display: inline-block;
+}
+
+h1 {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 3em; 
+}
+
+#paragrafo {
+    position: absolute;
+    margin: 0;
+    top: 54%;
+    left: 15%;
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 1.5em;
+}
+
+
+.imgPrincipal{
+    width: 200px;
+    margin-left: 70em;
+
+}
+
+
+
+.img1,.img2,.img3{
+    display: block;
+    width: 400px;
+    margin-top: 5em;
+    margin-left: 10em;
+}
+
+.texto {
+    position:relative;
+    left: 35em;
+    bottom: 13em;
+    font-size:large;
+
+    
+}
+
+
+
+
+footer {
+    background-color: #FFCDD2;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
